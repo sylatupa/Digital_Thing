@@ -32,6 +32,10 @@ stuff to see the git hub api
 
 
 The project is called {{ site.github.project_title }}
+The project is called {{ site.github}}
+The issues is called {{ site.github.issues_url}}
+The site {{site }}
+The project is called {{ site.github.project_title }}
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
