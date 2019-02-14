@@ -8,9 +8,8 @@
 # Site settings
 title: Digital_Thing
 email: sylatupa@asu.edu
-description: > # this means to ignore newlines until "baseurl:"
-New Blog for Digital Culture Projects
-
+description: > # this means to ignore newlines until "baseurl:" 
+        "New Blog for Digital Culture Projects"
 baseurl: "/Digital_Thing" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
